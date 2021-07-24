@@ -1,0 +1,15 @@
+/*===GENERAL===*/
+body {
+    margin-top: 50px;
+    font-family: "proxima-nova", "Raleway", Helvetica, sans-serif;
+    font-size: 16px;
+    /*background: url("../img/tile.jpg") top left repeat;*/
+    background-color: white;
+}
+
+/*===GLOBAL===*/
+
+/*===Home Page===*/
+.nav-color {
+    color: #898D8E;
+}
